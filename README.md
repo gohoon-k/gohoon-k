@@ -1,4 +1,14 @@
-### Hi there 👋
+### 방가어요!
+
+본명은 아니지만 **한고훈**이라는 이름으로 활동해요.  
+재미있어보이는 이것저것을 살펴보거나 기웃거리는 삐약이 멍발자에요!  
+아직 햇병아리 뉴비이지만 열심히 공부하고 있어요.  
+
+- 🔭 현재는 [팀 언스테이블러즈](https://github.com/team-unstablers)에 속해있어요!
+- 🌱 명확히 하긴 어렵지만 최근에는 Jetpack Compose에 대해 공부 중이에요!
+- 🥝 아직은 주로 개인 프로젝트를 통해 공부하고 있어요.
+- 📫 인터넷에서는 [트위터(@hoon_kiwicraft)](https://twitter.com/hoon_kiwicraft)에 주로 상주하고 있어요!
+- ⚡ 마인크래프트는 개발하는것도 좋아하지만 플레이하는것도 좋아해요! 같이 할 사람 절찬리에 모집 중! (??)
 
 <!--
 **gohoon-k/gohoon-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
