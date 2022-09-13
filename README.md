@@ -7,7 +7,7 @@
 - 🔭 현재는 [팀 언스테이블러즈](https://github.com/team-unstablers)에 속해있어요!
 - 🌱 명확히 하긴 어렵지만 최근에는 Jetpack Compose에 대해 공부 중이에요!
 - 🥝 아직은 주로 개인 프로젝트를 통해 공부하고 있어요.
-- 📫 인터넷에서는 [트위터(@hoon_kiwicraft)](https://twitter.com/hoon_kiwicraft)에 주로 상주하고 있어요!
+- 📫 인터넷에서는 [트위터(@arctic_apteryx)](https://twitter.com/arctic_apteryx)에 주로 상주하고 있어요!
 - ⚡ 마인크래프트는 개발하는것도 좋아하지만 플레이하는것도 좋아해요! 같이 할 사람 절찬리에 모집 중! (??)
 
 <!--
